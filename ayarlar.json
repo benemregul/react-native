@@ -1,0 +1,11 @@
+{
+"Mevduat Stopaj Oranı 1-180 Gün": "0.55",
+"Mevduat Stopaj Oranı 181-365 Gün": "0.03",
+"Mevduat Stopaj Oranı 365+ Gün": "0",
+"Bireysel BSMV": "0.15",
+"Bireysel KKDF": "0.15",
+"Ticari BSMV": "0",
+"Ticari KKDF": "0.15",
+"Bireysel Esnek Hesap Oranı": "3.76",
+"Ticari Esnek Hesap Oranı": "3.76"
+}
